@@ -29,9 +29,9 @@ This project visualizes a stylized sun using a combination of GLSL fragment and 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-- **GLSL (OpenGL Shading Language)** – for real-time fragment shader programming.
+- **GLSL (OpenGL Shading Language)** – for real time fragment shader programming.
 - **glman** – lightweight shader viewer used for prototyping and rendering.
 - **Procedural Techniques** – including `smoothstep`, `sin/cos`, `length()`, and value noise.
 - **Time-Based Animation** – enables dynamic corona flicker and flare rotation.
@@ -39,7 +39,7 @@ This project visualizes a stylized sun using a combination of GLSL fragment and 
 
 ---
 
-## 📌 Learning Outcomes
+## Learning Outcomes
 
 This project helped me strengthen my understanding of:
 
