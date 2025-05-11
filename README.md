@@ -3,7 +3,7 @@
 A GLSL shader that simulates the look and feel of a blazing sun using layered procedural effects. This project demonstrates how multiple shaders can be combined to create a compelling, animated Sun with a core disc, solar corona, and dynamic flares.
 
 ## Demo
-
+Click the image to watch a video demo! 
 [![Watch the Demo](https://img.youtube.com/vi/2O4LYdh_220/0.jpg)](https://www.youtube.com/watch?v=2O4LYdh_220)
 
 ---
