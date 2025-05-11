@@ -4,6 +4,7 @@ A GLSL shader that simulates the look and feel of a blazing sun using layered pr
 
 ## Demo
 Click the image to watch a video demo! 
+
 [![Watch the Demo](https://img.youtube.com/vi/2O4LYdh_220/0.jpg)](https://www.youtube.com/watch?v=2O4LYdh_220)
 
 ---
